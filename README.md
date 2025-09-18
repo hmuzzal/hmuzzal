@@ -42,15 +42,8 @@
 
 
 <h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hmuzzal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-   <a href="https://www.facebook.com/qmuzzal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a> 
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmuzzal) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/qmuzzal)
 
