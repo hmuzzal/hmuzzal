@@ -7,11 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmuzzal&label=Profile%20views&color=0e75b6&style=flat" alt="hmuzzal" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/qmuzzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="qmuzzal" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
