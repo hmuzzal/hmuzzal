@@ -29,11 +29,9 @@
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white" alt="Xamarin"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmuzzal&show_icons=true&locale=en&layout=compact" alt="hmuzzal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmuzzal&show_icons=true&locale=en" alt="hmuzzal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmuzzal" alt="hmuzzal" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmuzzal&layout=compact&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmuzzal&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmuzzal)
 
 
 <h3 align="left">🔗 Connect with me:</h3>
