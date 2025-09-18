@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasan Mahmud</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
+<p align="center">
+  I am a Full Stack Developer passionate about modern web technologies such as Angular, React, Node.js, and .NET. I focus on building scalable, high-performance applications while creating seamless and intuitive user experiences.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmuzzal&label=Profile%20views&color=0e75b6&style=flat" alt="hmuzzal" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -35,3 +39,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmuzzal&show_icons=true&locale=en" alt="hmuzzal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmuzzal&" alt="hmuzzal" /></p>
+
+
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hmuzzal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+   <a href="https://www.facebook.com/qmuzzal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a> 
+</p>
+
