@@ -30,9 +30,10 @@ I am a Full Stack Developer passionate about modern web technologies such as Ang
 
 ### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmuzzal&layout=compact&show_icons=true&count_private=true&token=public_repo)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmuzzal&show_icons=true&count_private=true&token=public_repo)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmuzzal)
+![Hasan Mahmud's Stats](https://github-readme-stats.vercel.app/api?username=hmuzzal&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Hasan Mahmud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmuzzal&theme=darcula&hide_border=true)
+![Hasan Mahmud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmuzzal&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
 
 ---
 
