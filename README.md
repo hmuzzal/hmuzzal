@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmuzzal&show_icons=true&locale=en" alt="hmuzzal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmuzzal&" alt="hmuzzal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmuzzal" alt="hmuzzal" /></p>
 
 
 <h3 align="left">🔗 Connect with me:</h3>
