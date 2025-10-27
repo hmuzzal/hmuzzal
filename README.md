@@ -16,13 +16,13 @@ I enjoy reading, learning new technologies, exploring ways to improve productivi
 
 💬 Ask me about .NET, Angular, APIs, software architecture, problem-solving, and full-stack development best practices.
 
-📫 Reach me at: hmuzzal.diu@gmail.com
-
 🥳 Fun fact: I love programming, optimizing workflows, and creating tools that save time. I’m also passionate about travel, personal growth, and riding my bike.
 
 📖 Learning: I dedicate time to coding challenges, advanced system design, and mastering new frameworks every month.
 
 🔧 Tools I use daily: Visual Studio, Visual Studio Code, Postman, SQL Server, Git, Docker, Angular CLI, and the mighty terminal.
+
+📫 Reach me at: hmuzzal.diu@gmail.com
 
 ---
 
