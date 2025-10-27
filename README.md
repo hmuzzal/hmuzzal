@@ -1,7 +1,20 @@
 # Hi 👋, I'm Hasan Mahmud
 ### A passionate Software Engineer from Bangladesh
 
-I am a Full Stack Developer passionate about modern web technologies such as Angular, React, Node.js, and .NET. I focus on building scalable, high-performance applications while creating seamless and intuitive user experiences.
+I am a Full Stack Developer passionate about modern web technologies such as Angular, React, Node.js, and .NET. I focus on building scalable, high-performance applications while creating seamless and intuitive user experiences. 
+Every day, I actively code on .NET, Angular, and build in-house and end-user software solutions, including automation tools, web apps, and API-driven platforms.
+
+I enjoy reading, learning new technologies, exploring ways to improve productivity, and riding my bike to recharge and get inspired.
+
+🌐 I actively contribute to the developer community by mentoring, sharing knowledge, and guiding fellow developers in solving real-world problems.
+💡 I’m currently focused on creating educational content for .NET, Angular, and problem-solving in coding, aiming to help others learn efficiently.
+🌱 I’m continuously learning — every day is an opportunity to sharpen my skills in software development, freelancing, and entrepreneurship.
+🤝 I’m open to remote work, freelancing opportunities, and collaborations that challenge me to grow.
+💬 Ask me about .NET, Angular, APIs, software architecture, problem-solving, and full-stack development best practices.
+📫 Reach me at: hmuzzal.diu@gmail.com
+🥳 Fun fact: I love programming, optimizing workflows, and creating tools that save time. I’m also passionate about travel, personal growth, and riding my bike.
+📖 Learning: I dedicate time to coding challenges, advanced system design, and mastering new frameworks every month.
+🔧 Tools I use daily: Visual Studio, Visual Studio Code, Postman, SQL Server, Git, Docker, Angular CLI, and the mighty terminal.
 
 ---
 
