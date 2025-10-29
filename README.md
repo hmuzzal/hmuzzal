@@ -22,7 +22,7 @@ I enjoy reading, learning new technologies, exploring ways to improve productivi
 
 🔧 Tools I use daily: Visual Studio, Visual Studio Code, Postman, SQL Server, Git, Docker, Angular CLI, and the mighty terminal.
 
-📫 Reach me at: hmuzzal.diu@gmail.com
+📫 Reach me at: hmuzzal.diu@gmail.com || +8801715637290
 
 ---
 
